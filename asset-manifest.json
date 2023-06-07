@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poc-tool/static/css/main.6fac0b67.css",
+    "main.js": "/poc-tool/static/js/main.7fc02716.js",
+    "static/js/787.23d53654.chunk.js": "/poc-tool/static/js/787.23d53654.chunk.js",
+    "index.html": "/poc-tool/index.html",
+    "main.6fac0b67.css.map": "/poc-tool/static/css/main.6fac0b67.css.map",
+    "main.7fc02716.js.map": "/poc-tool/static/js/main.7fc02716.js.map",
+    "787.23d53654.chunk.js.map": "/poc-tool/static/js/787.23d53654.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fac0b67.css",
+    "static/js/main.7fc02716.js"
+  ]
+}
