@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+.toolbar{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+  border: 1px solid rgba(219, 216, 216, 0.76);
+  width: 85%;
+}
+.fullToolBar{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  box-shadow: 0 7px 4px rgba(0, 0, 0, 0.1);
+
+}
+.fullToolBar>h2{
+  color: rgb(184, 184, 184);
+  font-size: 20px;
+  width: 15%;
+  padding: 20px 20px;
+
+}
+.panel{
+  display: flex;
+  flex-direction: row;
+  object-fit: contain;
+}
+.sideBar{
+  padding: 20px 20px;
+  background-color: rgba(88, 88, 88, 0.884);
+}
+.toolDiv{
+  display: flex;
+  flex-direction: column;
+}
+.toolDiv>span{
+  font-size:12px ;
+  color:rgba(43, 43, 43, 0.993);
+  text-align: center;
+  padding-top: 5px;
+}
